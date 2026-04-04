@@ -87,3 +87,7 @@ It's tested against Windows 10&11, Windows Server 16&19&22 from Ubuntu 20.04 and
 - https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/MS-SCMR/%5bMS-SCMR%5d.pdf
 - https://github.com/jborean93/pypsexec/tree/master
 - https://www.x86matthew.com/view_post?id=create_svc_rpc
+
+# Disclaimer
+
+For authorized security testing only. Misuse of this tool against systems without explicit permission is illegal.
